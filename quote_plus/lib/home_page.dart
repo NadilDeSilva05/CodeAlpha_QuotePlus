@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-//import 'package:quote_plus/api.dart';
-//import 'package:quote_plus/quote_model.dart';
+import 'package:quote_plus/api.dart';
+import 'package:quote_plus/quote_model.dart';
 import 'package:share_plus/share_plus.dart'; // Dependency for sharing functionality
 import 'package:font_awesome_flutter/font_awesome_flutter.dart'; // Import font_awesome_flutter package
 
